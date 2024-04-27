@@ -16,4 +16,5 @@ C code implementations of numerical algorithms:
 13. Adam Bashforth
 14. Trapezoidal
 15. Taylor Series Integration
+    
 These algorithms are commonly used in computational mathematics and engineering for solving various types of equations and problems.
